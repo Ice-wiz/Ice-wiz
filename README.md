@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aryan
-- 👀 I’m interested in how Web2 and computers works
+- 👀 I’m interested in how Web2 and computers work
 
 
 <!---
